@@ -29,7 +29,7 @@
 		"@types/node-fetch": "^2.5.5",
 		"@types/pixi.js": "^5.0.0",
 		"glob": "^7.1.6",
-		"node-fetch": "^2.6.0",
+		"node-fetch": "^2.6.1",
 		"sweetalert2": "^9.10.2"
 	}
 }
